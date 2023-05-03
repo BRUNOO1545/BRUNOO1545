@@ -1,2 +1,6 @@
-![BRUNOO1545 GitHub stats](https://github-readme-stats.vercel.app/api?username=BRUNOO1545&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOO1545&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/ArisGuimera">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRUNOO1545&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOO1545&show_icons=true&theme=radical"/>
+  </a>
+</p>
