@@ -45,6 +45,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOO1545&show_icons=true&theme=radical&layout=compact&langs_count=6"/>
   </a>
   <a href="https://github.com/wervlad"> 
-    <img src="https://komarev.com/ghpvc/?username=BRUNOO1545&color=black&style=flat)"/> 
+    <img src="https://komarev.com/ghpvc/?username=BRUNOO1545&color=000000&style=flat)"/> 
   </a> 
  </p>
