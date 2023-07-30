@@ -23,12 +23,12 @@
 ### Technologies
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-<!--![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)-->
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
+<!--![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)-->
 
 ### Design
 
