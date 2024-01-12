@@ -22,6 +22,5 @@
   <div>
     <h3>Con ❤ desde</h3>
     <img src="./assets/argentina_emoji.png" width=64px height=auto>
-    <img src="https://github.com/BRUNOO1545/BRUNOO1545/assets/argentina_emoji.png" width=64px height=auto>
   </div>
 </div>
