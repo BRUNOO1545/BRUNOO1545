@@ -1,4 +1,4 @@
-<div align="center" justify-content="center">
+<div align="center">
   <div>
     <h1>Que onda, te saluda Bruno 👋</h1>
     <img src="./assets/background.jpg" width=512px height=auto>
