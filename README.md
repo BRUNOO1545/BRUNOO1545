@@ -5,7 +5,7 @@
   </div>
 
   <div>
-    <h3>Bienvenido a mi perfil, soy un pibe que suele estar todo el día haciendo diferentes cosas para superarse, no veo la luz del día hasta no terminar lo que estoy haciendo.<br>Sé de todo un poco y me puedo manejar sin problemas, pero si querés ver más detalles sobre mí o mis habilidades a detalle <a href="https://brunoo1545.github.io">Visita mi página</a>.</h3>
+    <h3>Bienvenido a mi perfil, soy un pibe que suele estar todo el día haciendo diferentes cosas para superarse, no veo la luz del día hasta no terminar lo que estoy haciendo.<br>Sé de todo un poco y me puedo manejar sin problemas, pero si querés ver más sobre mí o mis habilidades a detalle <a href="https://brunoo1545.github.io">Visita mi página</a>.</h3>
   </div>
   
   <br>
