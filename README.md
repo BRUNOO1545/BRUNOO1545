@@ -13,13 +13,13 @@
     <h3>I wouldn’t quite describe myself as an interesting guy, but definitely as a passionate one. Solving problems is my specialty and one of my favorite things to do—seriously, if I can’t solve something, I’ll overthink it all day until I find a solution.<br>I love building apps and games—oh boy, THE GAMES! I absolutely love making and playing them. My favorites are:</h3>
     <ul>
       <li>Fallout</li>
-      <li>Red Dead Redeption 2</li>
+      <li>Red Dead Redemption 2</li>
       <li>Cyberpunk 2077</li>
       <li>Days Gone</li>
       <li>Metro</li>
       <li>Battlefield</li>
     </ul>
-    <h3>I'm currently studing Systems Analyst and Programmer and Teacher degree. I'm also working on a new title and building "Bizarre Engine 2" framework for Gamemaker games.</h3>
+    <h3>I'm currently studying Systems Analyst and Programmer and Teacher degree. I'm also working on a new title and building "Bizarre Engine 2" framework for Gamemaker games.</h3>
   </div>
 
   <br>
@@ -54,7 +54,7 @@
       <img src="./assets/lang/glsl.png" width=64px height=auto title="GLSL" alt="GLSL logo">
       <img src="./assets/lang/kotlin.png" width=64px height=auto title="Kotlin" alt="Kotlin logo">
       <br>
-      <h2>Currently Studing / Future Studies</h2>
+      <h2>Currently Studying / Future Studies</h2>
       <img src="./assets/tech/jetpackcompose.png" width=64px height=auto title="Jetpack Compose" alt="Jetpack Compose logo">
       <img src="./assets/lang/swift.png" width=64px height=auto title="Swift" alt="Swift logo">
       <img src="./assets/tech/swiftui.png" width=64px height=auto title="SwiftUI" alt="SwiftUI logo">
@@ -81,7 +81,7 @@
 
   <!-- End -->
   <div>
-    <h3>Want to know more about me? <a href="https://brunoo1545.github.io">Visit my page</a>.<h3>
+    <h3>Want to know more about me? <a href="https://brunoo1545.github.io">Visit my page</a>.</h3>
     <h3>With ❤ from</h3>
     <img src="./assets/argentina_emoji.png" width=64px height=auto alt="Argentina Flag">
   </div>
