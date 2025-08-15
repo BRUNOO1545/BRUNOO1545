@@ -19,7 +19,7 @@
       <li>Metro</li>
       <li>Battlefield</li>
     </ul>
-    <h3>I'm currently studying Systems Analyst and Programmer, Teacher degree and working on a new game.<br>Creator of Lightning Coffee Games, Bizarre Engine and building on Bizarre Engine 2, a Gamemaker framework for everyone.</h3>
+    <h3>I'm currently studying Systems Analyst and Programmer, Teacher degree and working on a new game.<br>Creator of Lightning Coffee Games, Bizarre Engine and building Bizarre Engine 2, a Gamemaker framework for everyone.</h3>
   </div>
 
   <br>
