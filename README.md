@@ -19,7 +19,7 @@
       <li>Metro</li>
       <li>Battlefield</li>
     </ul>
-    <h3>I'm currently studying Systems Analyst and Programmer and Teacher degree. I'm also working on a new title and building "Bizarre Engine 2" framework for Gamemaker games.</h3>
+    <h3>I'm currently studying Systems Analyst and Programmer, Teacher degree and working on a new game.<br>Creator of Lightning Coffee Games, Bizarre Engine and working on Bizarre Engine 2, a Gamemaker framework for everyone.</h3>
   </div>
 
   <br>
@@ -73,7 +73,7 @@
 
   <!-- Git Stats -->
   <div>
-    <h1>My GitHub Stats baby 💋</h1>
+    <h1>My GitHub Stats Baby 💋</h1>
     <a href="https://github.com/BRUNOO1545" style="text-decoration: none">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRUNOO1545&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOO1545&show_icons=true&theme=radical&layout=compact&langs_count=6&count_private=true"/>
