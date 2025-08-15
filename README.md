@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align:center;">
   <div>
     <h1>Welcome to my profile 👋</h1>
     <img src="./assets/background_alt.png" width=512px height=auto alt="Bruno Photo">
@@ -7,8 +7,9 @@
   <br>
   <br>
 
+  <!-- About Me -->
   <h1>About Me</h1>
-  <div align="left">
+  <div style="text-align:left;">
     <h3>I wouldn’t quite describe myself as an interesting guy, but definitely as a passionate one. Solving problems is my specialty and one of my favorite things to do—seriously, if I can’t solve something, I’ll overthink it all day until I find a solution.<br>I love building apps and games—oh boy, THE GAMES! I absolutely love making and playing them. My favorites are:</h3>
     <ul>
       <li>Fallout</li>
@@ -25,11 +26,12 @@
   <br>
   <br>
 
+  <!-- Tech -->
   <h1>Tech Related</h1>
-  <div align="left">
+  <div style="text-align:left;">
     <h3>Well, let's continue this awesome travel called "View my profile" and discover what technologies I use. Oh come on, It will be fun!</h3>
     <br>
-    <div align="center">
+    <div style="text-align:center;">
       <h2>Technologies</h2>
       <img src="./assets/tech/androidstudio.png" width=64px height=auto title="Android Studio" alt="GitHub logo">
       <img src="./assets/tech/vs2019.png" width=64px height=auto title="Visual Studio 2019" alt="Visual Studio 2019 logo">
@@ -65,6 +67,7 @@
   <br>
   <br>
 
+  <!-- Git Stats -->
   <div>
     <h1>My GitHub Stats baby 💋</h1>
     <a href="https://github.com/BRUNOO1545" style="text-decoration: none">
@@ -76,6 +79,7 @@
   <br>
   <br>
 
+  <!-- End -->
   <div>
     <h3>Want to know more about me? <a href="https://brunoo1545.github.io">Visit my page</a>.<h3>
     <h3>With ❤ from</h3>
