@@ -1,7 +1,7 @@
 <div align="center">
   <div>
     <h1>Welcome to my profile 👋</h1>
-    <img src="./assets/background_alt.png" width=512px height=auto>
+    <img src="./assets/background_alt.png" width=512px height=auto alt="Bruno Photo">
   </div>
 
   <br>
@@ -9,7 +9,7 @@
 
   <h1>About Me</h1>
   <div align="left">
-    <h3>So I don't quite describe myself as an interesting guy but a passionate one, thats for sure. Resolve problems it's my speciallity and one of my favorite things to do, like genually, if don't resolve that I overthing all day about that unsolved problem.<br>I like to build apps and games, and oh boy! THE GAMES, I fucking love to make and play games, and my favorite ones are these big boys:</h3>
+    <h3>I wouldn’t quite describe myself as an interesting guy, but definitely as a passionate one. Solving problems is my specialty and one of my favorite things to do—seriously, if I can’t solve something, I’ll overthink it all day until I find a solution.<br>I love building apps and games—oh boy, THE GAMES! I absolutely love making and playing them. My favorites are:</h3>
     <ul>
       <li>Fallout</li>
       <li>Red Dead Redeption 2</li>
@@ -31,32 +31,33 @@
     <br>
     <div align="center">
       <h2>Technologies</h2>
-      <img src="./assets/tech/androidstudio.png" width=64px height=auto title="Android Studio">
-      <img src="./assets/tech/vs2019.png" width=64px height=auto title="Visual Studio 2019">
-      <img src="./assets/tech/vsc.png" width=64px height=auto title="Visual Studio Code">
-      <img src="./assets/tech/firebase.png" width=64px height=auto title="Firebase">
-      <img src="./assets/tech/git.png" width=64px height=auto title="Git">
-      <img src="./assets/tech/github.png" width=64px height=auto title="GitHub">
-      <img src="./assets/tech/gamemaker.png" width=64px height=auto title="Gamemaker">
-      <img src="./assets/tech/unrealengine4.png" width=64px height=auto title="Unreal Engine 4">
-      <img src="./assets/tech/flstudio.png" width=64px height=auto title="FL Studio">
-      <img src="./assets/tech/canva.png" width=64px height=auto title="Canva">
+      <img src="./assets/tech/androidstudio.png" width=64px height=auto title="Android Studio" alt="GitHub logo">
+      <img src="./assets/tech/vs2019.png" width=64px height=auto title="Visual Studio 2019" alt="Visual Studio 2019 logo">
+      <img src="./assets/tech/vsc.png" width=64px height=auto title="Visual Studio Code" alt="Visual Studio Code logo">
+      <img src="./assets/tech/firebase.png" width=64px height=auto title="Firebase" alt="Firebase logo">
+      <img src="./assets/tech/git.png" width=64px height=auto title="Git" alt="Git logo">
+      <img src="./assets/tech/github.png" width=64px height=auto title="GitHub" alt="GitHub logo">
+      <img src="./assets/tech/arduino.png" width=64px height=auto title="Arduino" alt="Arduino logo">
+      <img src="./assets/tech/gamemaker.png" width=64px height=auto title="Gamemaker" alt="Gamemaker logo">
+      <img src="./assets/tech/unrealengine4.png" width=64px height=auto title="Unreal Engine 4" alt="Unreal Engine 4 logo">
+      <img src="./assets/tech/flstudio.png" width=64px height=auto title="FL Studio" alt="FL Studio logo">
+      <img src="./assets/tech/canva.png" width=64px height=auto title="Canva" alt="Canva logo">
       <h2>Languages</h2>
-      <img src="./assets/lang/cpp.png" width=64px height=auto title="C++">
-      <img src="./assets/lang/csharp.png" width=64px height=auto title="C#">
-      <img src="./assets/lang/html.png" width=64px height=auto title="HTML5">
-      <img src="./assets/lang/css.png" width=64px height=auto title="CSS3">
-      <img src="./assets/lang/javascript.png" width=64px height=auto title="JavaScript">
-      <img src="./assets/lang/gml.png" width=64px height=auto title="GML">
-      <img src="./assets/lang/glsl.png" width=64px height=auto title="GLSL">
-      <img src="./assets/lang/kotlin.png" width=64px height=auto title="Kotlin">
+      <img src="./assets/lang/cpp.png" width=64px height=auto title="C++" alt="C++ logo">
+      <img src="./assets/lang/csharp.png" width=64px height=auto title="C#" alt="C# logo">
+      <img src="./assets/lang/html.png" width=64px height=auto title="HTML5" alt="HTML5 logo">
+      <img src="./assets/lang/css.png" width=64px height=auto title="CSS3" alt="CSS3 logo">
+      <img src="./assets/lang/javascript.png" width=64px height=auto title="JavaScript" alt="JavaScript logo">
+      <img src="./assets/lang/gml.png" width=64px height=auto title="GML" alt="GML logo">
+      <img src="./assets/lang/glsl.png" width=64px height=auto title="GLSL" alt="GLSL logo">
+      <img src="./assets/lang/kotlin.png" width=64px height=auto title="Kotlin" alt="Kotlin logo">
       <br>
       <h2>Currently Studing / Future Studies</h2>
-      <img src="./assets/tech/jetpackcompose.png" width=64px height=auto title="Jetpack Compose">
-      <img src="./assets/lang/swift.png" width=64px height=auto title="Swift">
-      <img src="./assets/tech/swiftui.png" width=64px height=auto title="SwiftUI">
-      <img src="./assets/tech/flutter.png" width=64px height=auto title="Flutter">
-      <img src="./assets/tech/mysql.png" width=64px height=auto title="MySQL">
+      <img src="./assets/tech/jetpackcompose.png" width=64px height=auto title="Jetpack Compose" alt="Jetpack Compose logo">
+      <img src="./assets/lang/swift.png" width=64px height=auto title="Swift" alt="Swift logo">
+      <img src="./assets/tech/swiftui.png" width=64px height=auto title="SwiftUI" alt="SwiftUI logo">
+      <img src="./assets/tech/flutter.png" width=64px height=auto title="Flutter" alt="Flutter logo">
+      <img src="./assets/tech/mysql.png" width=64px height=auto title="MySQL" alt="MySQL logo">
     </div>
   </div>
 
@@ -78,6 +79,6 @@
   <div>
     <h3>Want to know more about me? <a href="https://brunoo1545.github.io">Visit my page</a>.<h3>
     <h3>With ❤ from</h3>
-    <img src="./assets/argentina_emoji.png" width=64px height=auto>
+    <img src="./assets/argentina_emoji.png" width=64px height=auto alt="Argentina Flag">
   </div>
 </div>
