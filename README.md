@@ -31,8 +31,9 @@
   <div align="left">
     <h3>Well, let's continue this awesome travel called "View my profile" and discover what technologies I use. Oh come on, It will be fun!</h3>
     <br>
+    <br>
     <div align="center">
-      <h2>Technologies</h2>
+      <h3>Technologies</h3>
       <img src="./assets/tech/androidstudio.png" width=64px height=auto title="Android Studio" alt="GitHub logo">
       <img src="./assets/tech/vs2019.png" width=64px height=auto title="Visual Studio 2019" alt="Visual Studio 2019 logo">
       <img src="./assets/tech/vsc.png" width=64px height=auto title="Visual Studio Code" alt="Visual Studio Code logo">
@@ -44,7 +45,9 @@
       <img src="./assets/tech/unrealengine4.png" width=64px height=auto title="Unreal Engine 4" alt="Unreal Engine 4 logo">
       <img src="./assets/tech/flstudio.png" width=64px height=auto title="FL Studio" alt="FL Studio logo">
       <img src="./assets/tech/canva.png" width=64px height=auto title="Canva" alt="Canva logo">
-      <h2>Languages</h2>
+      <br>
+      <br>
+      <h3>Languages</h3>
       <img src="./assets/lang/cpp.png" width=64px height=auto title="C++" alt="C++ logo">
       <img src="./assets/lang/csharp.png" width=64px height=auto title="C#" alt="C# logo">
       <img src="./assets/lang/html.png" width=64px height=auto title="HTML5" alt="HTML5 logo">
@@ -54,7 +57,8 @@
       <img src="./assets/lang/glsl.png" width=64px height=auto title="GLSL" alt="GLSL logo">
       <img src="./assets/lang/kotlin.png" width=64px height=auto title="Kotlin" alt="Kotlin logo">
       <br>
-      <h2>Currently Studying / Future Studies</h2>
+      <br>
+      <h3>Currently Studying / Future Studies</h3>
       <img src="./assets/tech/jetpackcompose.png" width=64px height=auto title="Jetpack Compose" alt="Jetpack Compose logo">
       <img src="./assets/lang/swift.png" width=64px height=auto title="Swift" alt="Swift logo">
       <img src="./assets/tech/swiftui.png" width=64px height=auto title="SwiftUI" alt="SwiftUI logo">
