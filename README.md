@@ -18,8 +18,10 @@
       <li>Metro</li>
       <li>Battlefield</li>
     </ul>
+    <h3>I'm currently studing Systems Analyst and Programmer and Teacher degree. I'm also working on a new title and building "Bizarre Engine 2" framework for Gamemaker games.</h3>
   </div>
 
+  <br>
   <br>
   <br>
 
@@ -28,8 +30,7 @@
     <h3>Well, let's continue this awesome travel called "View my profile" and discover what technologies I use. Oh come on, It will be fun!</h3>
     <br>
     <div align="center">
-      <h3>Technologies</h3>
-      <hr>
+      <h2>Technologies</h2>
       <img src="./assets/tech/androidstudio.png" width=64px height=auto title="Android Studio">
       <img src="./assets/tech/vs2019.png" width=64px height=auto title="Visual Studio 2019">
       <img src="./assets/tech/vsc.png" width=64px height=auto title="Visual Studio Code">
@@ -40,8 +41,7 @@
       <img src="./assets/tech/unrealengine4.png" width=64px height=auto title="Unreal Engine 4">
       <img src="./assets/tech/flstudio.png" width=64px height=auto title="FL Studio">
       <img src="./assets/tech/canva.png" width=64px height=auto title="Canva">
-      <h3>Languages</h3>
-      <hr>
+      <h2>Languages</h2>
       <img src="./assets/lang/cpp.png" width=64px height=auto title="C++">
       <img src="./assets/lang/csharp.png" width=64px height=auto title="C#">
       <img src="./assets/lang/html.png" width=64px height=auto title="HTML5">
@@ -51,8 +51,7 @@
       <img src="./assets/lang/glsl.png" width=64px height=auto title="GLSL">
       <img src="./assets/lang/kotlin.png" width=64px height=auto title="Kotlin">
       <br>
-      <h3>Currently Studing / Future Studies</h3>
-      <hr>
+      <h2>Currently Studing / Future Studies</h2>
       <img src="./assets/tech/jetpackcompose.png" width=64px height=auto title="Jetpack Compose">
       <img src="./assets/lang/swift.png" width=64px height=auto title="Swift">
       <img src="./assets/tech/swiftui.png" width=64px height=auto title="SwiftUI">
@@ -61,6 +60,7 @@
     </div>
   </div>
 
+  <br>
   <br>
   <br>
 
