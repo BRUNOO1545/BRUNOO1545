@@ -61,7 +61,7 @@
       <h3>Currently Studying</h3>
       <img src="./assets/tech/jetpackcompose.png" width=64px height=auto title="Jetpack Compose" alt="Jetpack Compose logo">
       <img src="./assets/tech/angular.png" width=64px height=auto title="Angular" alt="Angular logo">
-      <img src="./assets/tech/fastapi.png" width=64px height=auto title="MongoDB" alt="FastAPI logo">
+      <img src="./assets/tech/fastapi.png" width=64px height=auto title="FastAPI" alt="FastAPI logo">
       <img src="./assets/tech/mongodb.png" width=64px height=auto title="MongoDB" alt="MongoDB logo">
       <br>
       <br>
