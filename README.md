@@ -56,16 +56,6 @@
       <img src="./assets/lang/gml.png" width=64px height=auto title="GML" alt="GML logo">
       <img src="./assets/lang/glsl.png" width=64px height=auto title="GLSL" alt="GLSL logo">
       <img src="./assets/lang/kotlin.png" width=64px height=auto title="Kotlin" alt="Kotlin logo">
-      <br>
-      <br>
-      <h3>Currently Studying / Future Studies</h3>
-      <img src="./assets/tech/jetpackcompose.png" width=64px height=auto title="Jetpack Compose" alt="Jetpack Compose logo">
-      <img src="./assets/tech/angular.png" width=64px height=auto title="Angular" alt="Angular logo">
-      <img src="./assets/lang/swift.png" width=64px height=auto title="Swift" alt="Swift logo">
-      <img src="./assets/tech/swiftui.png" width=64px height=auto title="SwiftUI" alt="SwiftUI logo">
-      <img src="./assets/tech/flutter.png" width=64px height=auto title="Flutter" alt="Flutter logo">
-      <img src="./assets/tech/mysql.png" width=64px height=auto title="MySQL" alt="MySQL logo">
-      <img src="./assets/tech/react.png" width=64px height=auto title="React" alt="React logo">
     </div>
   </div>
 
