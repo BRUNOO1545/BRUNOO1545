@@ -10,7 +10,7 @@
   <!-- About Me -->
   <h1>About Me</h1>
   <div align="left">
-    <h3>I wouldn’t quite describe myself as an interesting guy, but definitely as a passionate one. Solving problems is my specialty and one of my favorite things to do—seriously, if I can’t solve something, I’ll overthink it all day until I find a solution.<br>I love building apps and games—oh boy, THE GAMES! I absolutely love making and playing them. My favorites are:</h3>
+    <h4>I wouldn’t quite describe myself as an interesting guy, but definitely as a passionate one. Solving problems is my specialty and one of my favorite things to do—seriously, if I can’t solve something, I’ll overthink it all day until I find a solution.<br>I love building apps and games—oh boy, THE GAMES! I absolutely love making and playing them. My favorites are:</h4>
     <ul>
       <li>Fallout</li>
       <li>Red Dead Redemption 2</li>
@@ -19,7 +19,7 @@
       <li>Metro</li>
       <li>Battlefield</li>
     </ul>
-    <h3>I'm currently studying Systems Analyst and Programmer, Teacher degree and working on a new game.<br>Creator of Lightning Coffee Games, Bizarre Engine and building Bizarre Engine 2, a Gamemaker framework for everyone.</h3>
+    <h4>I'm currently studying Systems Analyst and Programmer, Teacher degree and working on a new game.<br>Creator of Lightning Coffee Games, Bizarre Engine and building Bizarre Engine 2, a Gamemaker framework for everyone.</h4>
   </div>
 
   <br>
@@ -29,7 +29,7 @@
   <!-- Tech -->
   <h1>Tech Related</h1>
   <div align="left">
-    <h3>Well, let's continue this awesome travel called "View my profile" and discover what technologies I use. Oh come on, It will be fun!</h3>
+    <h4>Well, let's continue this awesome travel called "View my profile" and discover what technologies I use. Oh come on, It will be fun!</h4>
     <br>
     <br>
     <div align="center">
@@ -87,8 +87,8 @@
 
   <!-- End -->
   <div>
-    <h3>Want to know more about me? <a href="https://brunoo1545.github.io">Visit my page</a>.</h3>
-    <h3>With ❤ from</h3>
-    <img src="./assets/argentina_emoji.png" width=64px height=auto alt="Argentina Flag">
+    <h4>Want to know more about me? <a href="https://brunoo1545.github.io">Visit my page</a>.</h4>
+    <h4>With ❤ from</h4>
+    <img src="./assets/argentina_emoji.png" width=32px height=auto alt="Argentina Flag">
   </div>
 </div>
