@@ -31,7 +31,6 @@
   <div align="left">
     <h4>Well, let's continue this awesome travel called "View my profile" and discover what technologies I use. Oh come on, It will be fun!</h4>
     <br>
-    <br>
     <div align="center">
       <h3>Technologies</h3>
       <img src="./assets/tech/androidstudio.png" width=32px height=auto title="Android Studio" alt="GitHub logo">
@@ -46,7 +45,6 @@
       <img src="./assets/tech/flstudio.png" width=32px height=auto title="FL Studio" alt="FL Studio logo">
       <img src="./assets/tech/canva.png" width=32px height=auto title="Canva" alt="Canva logo">
       <br>
-      <br>
       <h3>Languages</h3>
       <img src="./assets/lang/cpp.png" width=32px height=auto title="C++" alt="C++ logo">
       <img src="./assets/lang/csharp.png" width=32px height=auto title="C#" alt="C# logo">
@@ -57,13 +55,11 @@
       <img src="./assets/lang/glsl.png" width=32px height=auto title="GLSL" alt="GLSL logo">
       <img src="./assets/lang/kotlin.png" width=32px height=auto title="Kotlin" alt="Kotlin logo">
       <br>
-      <br>
       <h3>Currently Studying</h3>
       <img src="./assets/tech/jetpackcompose.png" width=32px height=auto title="Jetpack Compose" alt="Jetpack Compose logo">
       <img src="./assets/tech/angular.png" width=32px height=auto title="Angular" alt="Angular logo">
       <img src="./assets/tech/fastapi.png" width=32px height=auto title="FastAPI" alt="FastAPI logo">
       <img src="./assets/tech/mongodb.png" width=32px height=auto title="MongoDB" alt="MongoDB logo">
-      <br>
       <br>
       <h3>Future Studies</h3>
       <img src="./assets/lang/swift.png" width=32px height=auto title="Swift" alt="Swift logo">
