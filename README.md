@@ -2,6 +2,8 @@
   <div>
     <h1>Welcome to my profile 👋</h1>
     <img src="./assets/background_alt.png" width=512px height=auto alt="Bruno Photo">
+    
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Thinking+Different;Game+Development;Making+In-House+Tools;Mobile+Dev;UX+%2F+UI)](https://git.io/typing-svg)
   </div>
 
   <br>
@@ -10,16 +12,7 @@
   <!-- About Me -->
   <h1>About Me</h1>
   <div align="left">
-    <h4>I wouldn’t quite describe myself as an interesting guy, but definitely as a passionate one. Solving problems is my specialty and one of my favorite things to do—seriously, if I can’t solve something, I’ll overthink it all day until I find a solution.<br>I love building apps and games—oh boy, THE GAMES! I absolutely love making and playing them. My favorites are:</h4>
-    <ul>
-      <li>Fallout</li>
-      <li>Red Dead Redemption 2</li>
-      <li>Cyberpunk 2077</li>
-      <li>Days Gone</li>
-      <li>Metro</li>
-      <li>Battlefield</li>
-    </ul>
-    <h4>I'm currently studying Systems Analyst and Programmer, Teacher degree and working on a new game.<br>Creator of Lightning Coffee Games, Bizarre Engine and building Bizarre Engine 2, a Gamemaker framework for everyone.</h4>
+    <h4>I wouldn’t quite describe myself as an interesting guy, but definitely as a passionate one. Solving problems is my specialty and one of my favorite things to do—seriously, if I can’t solve something, I’ll overthink it all day until I find a solution.<br>I love building apps and games—oh boy, THE GAMES! I absolutely love making and playing them.<br><br>I'm currently studying Systems Analyst and Programmer, Teacher degree and working on a new game.<br>Creator of Lightning Coffee Games, Bizarre Engine and building Bizarre Engine 2, a Gamemaker framework for everyone.</br>
   </div>
 
   <br>
@@ -43,6 +36,7 @@
       <img src="./assets/tech/gamemaker.png" width=32px height=auto title="Gamemaker" alt="Gamemaker logo">
       <img src="./assets/tech/unrealengine4.png" width=32px height=auto title="Unreal Engine 4" alt="Unreal Engine 4 logo">
       <img src="./assets/tech/flstudio.png" width=32px height=auto title="FL Studio" alt="FL Studio logo">
+      <img src="./assets/tech/figma.png" width=32px height=auto title="Figma" alt="Figma logo">
       <img src="./assets/tech/canva.png" width=32px height=auto title="Canva" alt="Canva logo">
       <br>
       <h3>Languages</h3>
