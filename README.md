@@ -54,6 +54,7 @@
       <img src="./assets/tech/angular.png" width=32px height=auto title="Angular" alt="Angular logo">
       <img src="./assets/tech/fastapi.png" width=32px height=auto title="FastAPI" alt="FastAPI logo">
       <img src="./assets/tech/mongodb.png" width=32px height=auto title="MongoDB" alt="MongoDB logo">
+      <img src="./assets/tech/opengl.png" width=32px height=auto title="OpenGL" alt="OpenGL logo">
       <br>
       <h3>Future Studies</h3>
       <img src="./assets/lang/swift.png" width=32px height=auto title="Swift" alt="Swift logo">
@@ -61,6 +62,7 @@
       <img src="./assets/tech/mysql.png" width=32px height=auto title="MySQL" alt="MySQL logo">
       <img src="./assets/tech/flutter.png" width=32px height=auto title="Flutter" alt="Flutter logo">
       <img src="./assets/tech/react.png" width=32px height=auto title="React" alt="React logo">
+      <img src="./assets/tech/vulkan.png" width=32px height=auto title="Vulkan" alt="Vulkan logo">
     </div>
   </div>
 
