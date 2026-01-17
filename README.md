@@ -12,7 +12,7 @@
   <!-- About Me -->
   <h1>About Me</h1>
   <div align="left">
-    <h4>I wouldn’t quite describe myself as an interesting guy, but definitely as a passionate one. Solving problems is my specialty and one of my favorite things to do—seriously, if I can’t solve something, I’ll overthink it all day until I find a solution.<br>I love building apps and games—oh boy, THE GAMES! I absolutely love making and playing them.<br><br>I'm currently studying Systems Analyst and Programmer, Teacher degree and working on a new game.<br>Creator of Lightning Coffee Games, Bizarre Engine and building Bizarre Engine 2, a Gamemaker framework for everyone.</br>
+    <h4>I wouldn’t quite describe myself as an interesting guy, but definitely as a passionate one. Solving problems is my specialty and one of my favorite things to do—seriously, if I can’t solve something, I’ll overthink it all day until I find a solution.<br>I love building apps and games—oh boy, THE GAMES! I absolutely love making and playing them.<br><br>I'm currently studying Software Engineering, Game Engineering, Teacher degree and working on a new game.<br>Creator of Lightning Coffee Games, Bizarre Engine and building Bizarre Engine 2, a Gamemaker framework for everyone.</br>
   </div>
 
   <br>
